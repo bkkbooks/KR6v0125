@@ -1,0 +1,276 @@
+canonical_identifier: bkk:krp/KR6v0125/v1
+canonical_location: https://kanripo.org/bkk/KR6v0125/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 圓通三慧大齋道場儀
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW12/ZW12n0098.xml
+    old_id: ZW12n0098
+  edition:
+    short: bkk
+editions:
+- short: 藏外
+  label: 藏外
+  source_xml_id: wit.orig
+- short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0125_000.yaml, hash: 'sha256:18ae4a1784d8e323931c74bc7039cb6c5d7d9e0186d27265522d577f59ff5234'}
+  - {seq: 1, filename: KR6v0125_001.yaml, hash: 'sha256:31f2f2a0eacc10ee464ec7e15c85cf27bd7b4fefa8c5558ace9704e11b642804'}
+  - {seq: 2, filename: KR6v0125_002.yaml, hash: 'sha256:a053a25100a8403fcc5134c261be4f9d3bce8a8e7e4b72c3d048f5961d4c8f24'}
+  - {seq: 3, filename: KR6v0125_003.yaml, hash: 'sha256:a40be8d25d38dfde785c4dc4e1a5eeecd26e583909789337d5681a0794120143'}
+  - {seq: 4, filename: KR6v0125_004.yaml, hash: 'sha256:e632f4383620d1aa9cd3835c50ebbbf59ba3e6019bacf17f9af9947d307b1cd0'}
+  - {seq: 5, filename: KR6v0125_005.yaml, hash: 'sha256:0b27653d3d68afb74cd8853a970af3bc824d221a465cd91759b9d2f4af2c1b91'}
+  - {seq: 6, filename: KR6v0125_006.yaml, hash: 'sha256:fea9b69d90b84aca1c507a92508c8fcb85501f13bfe474a721b85f40ed3f5c2f'}
+  - {seq: 7, filename: KR6v0125_007.yaml, hash: 'sha256:234571d8cf06db797266a0d57881030ff727649853b0f8614cfb7060145f6380'}
+  - {seq: 8, filename: KR6v0125_008.yaml, hash: 'sha256:83ebc3a172afc023f11df8b6df70e61ae0f0d5dea85f56f29b8e6bce05f4f786'}
+  - {seq: 9, filename: KR6v0125_009.yaml, hash: 'sha256:c6cc0768e23a2407babccdc4ad81abe4d5c46cce1e7f077569ad3bf477526e16'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0125_000.markers.yaml, hash: 'sha256:805e80ec24b454ad6576938ac947b136c102771b1e610a79dc78675064a4d66d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0125_001.markers.yaml, hash: 'sha256:8100aa7bc2a2f3596cb7eba38394d3d0f0933a01452e8a41e757a35ddbe63719'}
+  - {seq: 2, role: markers, filename: assets/KR6v0125_002.markers.yaml, hash: 'sha256:d7783cc32ba92212ea7971ad77e275c6da23a617c93108d55c96e81b59ac8efe'}
+  - {seq: 3, role: markers, filename: assets/KR6v0125_003.markers.yaml, hash: 'sha256:ffee83582fdb9647e5e80e4bf1dd841f3167c3bf1352bbf3f735f306ef3d4e90'}
+  - {seq: 4, role: markers, filename: assets/KR6v0125_004.markers.yaml, hash: 'sha256:4cc626a523e2efbeb243836a9d537c5b9b5ac7577cfccbb459bdf86cc839f3ec'}
+  - {seq: 5, role: markers, filename: assets/KR6v0125_005.markers.yaml, hash: 'sha256:4c35588fd5167d4a904e8ba014bac4b9ffafad2e4aa0819689d9f4cf1844c858'}
+  - {seq: 6, role: markers, filename: assets/KR6v0125_006.markers.yaml, hash: 'sha256:04eb10e96d8da7e0764e73f713d33de1f7ed2706de073b9e1ded17e4cb1739e0'}
+  - {seq: 7, role: markers, filename: assets/KR6v0125_007.markers.yaml, hash: 'sha256:3ae51386afda2a7f17e84bb19fc95f818b2d2e78115ebcd8dd89e1f8dc979ddb'}
+  - {seq: 8, role: markers, filename: assets/KR6v0125_008.markers.yaml, hash: 'sha256:02cad293f0dedcb0656abaa3826a87d9517ad7c29f86d855217da181110f1f2e'}
+  - {seq: 9, role: markers, filename: assets/KR6v0125_009.markers.yaml, hash: 'sha256:e1a4f857b115318fdbbb9586871cc05e331e0c7d3838e3d64bbf27099399fbe7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0125_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0125_ZW_000-mulu-2
+    span:
+    - front
+    - 2468
+    - 2468
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0125_ZW_000-mulu-3
+    span:
+    - front
+    - 2470
+    - 2470
+  label: 圓通三慧大齋壇前教誡儀文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0125_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 1357
+  label: 圓通三慧大齋壇前教誡儀文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0125_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 觀音齋儀文序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0125_ZW_001-mulu-2
+    span:
+    - body
+    - 410
+    - 410
+  label: 眉州著作佐郎成都府教授賢良侯溥集
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0125_ZW_002-juan-start
+    span:
+    - body
+    - 0
+    - 5188
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0125_ZW_002-mulu-1
+    span:
+    - body
+    - 1
+    - 1
+  label: 圓通三慧道場開壇
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0125_ZW_003-juan-start
+    span:
+    - body
+    - 0
+    - 6635
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0125_ZW_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 圓通三慧道場儀文上
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0125_ZW_004-juan-start
+    span:
+    - body
+    - 0
+    - 9339
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0125_ZW_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 圓通三慧道場儀文中
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0125_ZW_005-juan-start
+    span:
+    - body
+    - 0
+    - 8381
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0125_ZW_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 圓通三慧道場儀文下
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0125_ZW_006-juan-start
+    span:
+    - body
+    - 0
+    - 7252
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0125_ZW_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 圓通三慧道場提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0125_ZW_007-juan-start
+    span:
+    - body
+    - 0
+    - 6713
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0125_ZW_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 圓通三慧道場密教上
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0125_ZW_008-juan-start
+    span:
+    - body
+    - 0
+    - 4569
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0125_ZW_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 圓通三慧道場密教中
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0125_ZW_009-juan-start
+    span:
+    - body
+    - 0
+    - 4496
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0125_ZW_009-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 圓通三慧道場密教下
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0125_ZW_009-mulu-2
+    span:
+    - body
+    - 4353
+    - 4353
+  label: 附錄：西園圓通頌
+  type: mulu
+  level: 1
+hash: sha256:3c7e7b11228dac70587638383f89b6525c77686b929145f74dd2689b57243197
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
