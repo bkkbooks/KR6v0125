@@ -19,7 +19,7 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0125_000-ZW.yaml, hash: 'sha256:2d947dde3ccc4d696897c9497140056e3d7ba10c4593c2a144b51bf0a400b9ce'}
+  - {seq: 0, filename: KR6v0125_000-ZW.yaml, hash: 'sha256:8c8734c065793c4c87f36471a2c7ed74313944b255de45b0773cd9e3225c6e61'}
   - {seq: 1, filename: KR6v0125_001-ZW.yaml, hash: 'sha256:d607107d33bf07f3671640b4f99dfb64355ae3c159b07a20652f7091b5d74c1d'}
   - {seq: 2, filename: KR6v0125_002-ZW.yaml, hash: 'sha256:cfae331c7ce512afe36333231187c5a8ab5482ebb6b168f5274f499c665a2b29'}
   - {seq: 3, filename: KR6v0125_003-ZW.yaml, hash: 'sha256:cb3954494c1d4765b2868997965c23c4e75a6498d98f4fe3c93b14329549e688'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6v0125_008-ZW.yaml, hash: 'sha256:0c7515ec423fddc58acfddfc7502524b70fa5463acb2d289a3327dd783effe9c'}
   - {seq: 9, filename: KR6v0125_009-ZW.yaml, hash: 'sha256:19df46b6be0ca5d17d0e607d9b48f79a818a16d624a7d27044d09df6b68c932f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0125_000-ZW.markers.yaml, hash: 'sha256:910e151feab4746ffd5bec7c822666c6e4d9a265e29b15c16972f7b840d212fa'}
+  - {seq: 0, role: markers, filename: assets/KR6v0125_000-ZW.markers.yaml, hash: 'sha256:141817fa5a6dcb703e92689473d227a356539b139cd46acff2e626d62c414757'}
   - {seq: 1, role: markers, filename: assets/KR6v0125_001-ZW.markers.yaml, hash: 'sha256:bd313b764b4e45bb57b5768ebf44a01a93ddca2e8c128616f7725f7ea65a502d'}
   - {seq: 2, role: markers, filename: assets/KR6v0125_002-ZW.markers.yaml, hash: 'sha256:b88a7ccd901ea3e6ce6dabfbee2fb77d015ba8c5cb52366fb59610abc65000de'}
   - {seq: 3, role: markers, filename: assets/KR6v0125_003-ZW.markers.yaml, hash: 'sha256:14ae243895151cf9c190b60e87846b61e2e3d3a699b204dfaee324511ee709ad'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0125_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0125_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 2468
     - 2468
   label: 錄文
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0125_ZW_000-mulu-3
     span:
-    - front
+    - body
     - 2470
     - 2470
   label: 圓通三慧大齋壇前教誡儀文
@@ -271,4 +271,4 @@ table_of_contents:
   label: 附錄：西園圓通頌
   type: mulu
   level: 1
-hash: sha256:e54dee1a5f42bdeff3af3b5745c27ec507b5d23cea7a4547f6617310eda71789
+hash: sha256:ef4baeede0b7a8c18c2f49fd862efa427f1e4e87fd2cc021e8234953062c7501
